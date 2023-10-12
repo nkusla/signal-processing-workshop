@@ -1,1 +1,1 @@
-# Signal processing workshopw
+# Signal processing workshop
